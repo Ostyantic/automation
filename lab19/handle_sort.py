@@ -26,4 +26,4 @@ def handle_sort(file_path):
             shutil.move(new_file_path, logs_folder)
 
 
-handle_sort("./temporary")
+# handle_sort("./temporary")

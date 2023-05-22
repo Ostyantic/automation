@@ -14,6 +14,6 @@ def handle_delete(file_path):
         shutil.move(new_file_path, dst_folder)
 
 
-handle_delete("./users/user1")
-handle_delete("./users/user2")
+# handle_delete("./users/user1")
+# handle_delete("./users/user2")
 
